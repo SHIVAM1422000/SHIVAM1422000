@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivam_ojha14" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_ojha14?logo=twitter&style=for-the-badge" alt="shivam_ojha14" /></a> </p>
 
-- 🌱 I’m currently working on **Competitive Progemming Skills.**
+- 🌱 I’m currently working on my **Competitive Progemming Skills.**
 
 - 👨‍💻 My Portfolio(Created in my first year 😂 ,i'll upgrade it) [https://aqueous-journey-50772.herokuapp.com/](https://aqueous-journey-50772.herokuapp.com/)
 
