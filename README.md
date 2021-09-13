@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on **Competitive Progemming Skills.**
 
-- 👨‍💻 All of my projects are available at(Created in my first year 😂) [https://aqueous-journey-50772.herokuapp.com/](https://aqueous-journey-50772.herokuapp.com/)
+- 👨‍💻 My Portfolio(Created in my first year 😂 ,i'll upgrade it) [https://aqueous-journey-50772.herokuapp.com/](https://aqueous-journey-50772.herokuapp.com/)
 
 - 📫 How to reach me **shivamojha1422000@gmail.com**
 
