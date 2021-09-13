@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shivamojha1422000@gmail.com**
 
-- ⚡ Fun fact **Too Lazy To Write Readme..!!**
+- ⚡ Fun fact: **Too Lazy To Write Readme..!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
