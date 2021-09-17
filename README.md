@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Ojha</h1>
+<h1 align="center">Hi 👋, I'm Shivam Ojha..!!</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam1422000&label=Profile%20views&color=0e75b6&style=flat" alt="shivam1422000" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shivamojha1422000@gmail.com**
 
-- ⚡ Fun fact: **Too Lazy To Write README.md..!!**
+- ⚡ Fun fact: **Too Lazy To Write README.md**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
