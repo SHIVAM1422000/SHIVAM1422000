@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/shivam_ojha14" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_ojha14?logo=twitter&style=for-the-badge" alt="shivam_ojha14" /></a> </p>
 
-- 🌱 I’m currently working on my **Competitive Progemming Skills.**
+- 🌱 I’m currently working on my **Competitive Programming Skills.**
 
 - 👨‍💻 My Portfolio(Created in my first year 😂 ,i'll upgrade it) [https://aqueous-journey-50772.herokuapp.com/](https://aqueous-journey-50772.herokuapp.com/)
 
 - 📫 How to reach me **shivamojha1422000@gmail.com**
 
-- ⚡ Fun fact: **Too Lazy To Write Readme..!!**
+- ⚡ Fun fact: **Too Lazy To Write README.md..!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
