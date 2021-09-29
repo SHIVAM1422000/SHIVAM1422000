@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on my **Competitive Programming Skills.**
 
-- 👨‍💻 My Portfolio(Created in my first year 😂 ,i'll upgrade it) [https://aqueous-journey-50772.herokuapp.com/](https://aqueous-journey-50772.herokuapp.com/)
+<!-- - 👨‍💻 My Portfolio(Created in my first year 😂 ,i'll upgrade it) [https://aqueous-journey-50772.herokuapp.com/](https://aqueous-journey-50772.herokuapp.com/) -->
 
 - 📫 How to reach me **shivamojha1422000@gmail.com**
 
