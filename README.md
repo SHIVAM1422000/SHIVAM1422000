@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Ojha..!!</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">Crafting Awesomeness</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam1422000&label=Profile%20views&color=0e75b6&style=flat" alt="shivam1422000" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on my **Competitive Programming Skills.**
 
-<!-- - 👨‍💻 My Portfolio(Created in my first year 😂 ,i'll upgrade it) [https://aqueous-journey-50772.herokuapp.com/](https://aqueous-journey-50772.herokuapp.com/) -->
+- 👨‍💻 My Portfolio: [https://shivam1422000.github.io/ShivamOjha_Portfolio/](https://shivam1422000.github.io/ShivamOjha_Portfolio/)
 
 - 📫 How to reach me **shivamojha1422000@gmail.com**
 
