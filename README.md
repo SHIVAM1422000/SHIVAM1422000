@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **shivamojha1422000@gmail.com**
 
-- ⚡ Fun fact: **Too Lazy To Write README.md**
+<!-- - ⚡ Fun fact: **Too Lazy To Write README.md** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
