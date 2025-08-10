@@ -2,7 +2,7 @@
 
 
 <!-- 
-<h1 align="center">Hi 👋, I'm Shivam Ojha..!!</h1>
+<h1 align="center">Hi 👋, I'm Shivm Ojha</h1>
 <h3 align="center">Crafting Awesomeness</h3> -->
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
 
