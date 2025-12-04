@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivam_ojha14" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_ojha14?logo=twitter&style=for-the-badge" alt="shivam_ojha14" /></a> </p>
 
-- 🌱 I’m currently working on my **Competitive Programming Skills.**
+- 🌱 I’m currently working as Full Stack Developer.**
 
 - 👨‍💻 My Portfolio: [https://shivam1422000.github.io/ShivamOjha_Portfolio/](https://shivamojha-portfolio2-0.onrender.com)
 
