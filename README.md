@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shivm Ojha..!!</h1>
-<h3 align="center">Crafting Awesomeness</h3>
+<h3 align="center">A Full Stack Developer, Crafting Awesomeness</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam1422000&label=Profile%20views&color=0e75b6&style=flat" alt="shivam1422000" /> </p>
 
@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently working on my **Competitive Programming Skills.**
 
-- 👨‍💻 My Portfolio: [https://shivam1422000.github.io/ShivamOjha_Portfolio/](https://shivam1422000.github.io/ShivamOjha_Portfolio/)
+- 👨‍💻 My Portfolio: [https://shivam1422000.github.io/ShivamOjha_Portfolio/](https://shivamojha-portfolio2-0.onrender.com)
 
 - 📫 How to reach me **shivamojha1422000@gmail.com**
 
